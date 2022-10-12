@@ -1,0 +1,17 @@
+@import "anim.css";
+@import "fonts.css";
+@import "hero.css";
+@import "root.css";
+
+body {
+    margin: 0;
+
+    overflow-x: hidden;
+    overflow-y: auto;
+
+    background-image: linear-gradient(hsl(220, 20%, 13%), hsl(220, 18%, 9%));
+    color: var(--font-color);
+
+    position: absolute;
+}
+

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Cera Round Pro Regular';
+    font-style: normal;
+    font-weight: normal;
+    font-display: swap;
+    src: local('Cera Round Pro Regular'), url('../fonts/cera.woff') format('woff');
+}
+    

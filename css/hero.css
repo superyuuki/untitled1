@@ -1,0 +1,40 @@
+.hero {
+    min-height: 100vh;
+    height: 100%;
+
+    flex-direction: column;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: calc(33px + 3vw);
+    position: relative;
+    margin-top: 100px;
+    margin-bottom: calc(8px + 0.8vh);
+}
+
+.hero h2 {
+    font-size: calc(16px + 0.9vw);
+    color: var(--font-color-2);
+}
+
+.hero b {
+    color: aqua;
+    line-height: 1px;
+}
+
+.hero div {
+    margin: 30px;
+
+    flex-direction: row;
+}
+
+.hero a {
+    margin: 4px 8px;
+    padding: calc(6px + 1vw) calc(30px + 2vw);
+
+    background-color: var(--bg-color-3);
+
+    border: 4px;
+    border-radius: 16px;
+}

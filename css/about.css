@@ -1,0 +1,12 @@
+
+.about {
+    width: 100%;
+    position: relative;
+    padding: 20px 40px;
+}
+
+.about h3 {
+    padding: inherit;
+    position: absolute;
+    top: 0;
+}

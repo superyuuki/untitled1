@@ -1,0 +1,19 @@
+*,
+*::before,
+*::after,
+:root {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+    font-family: "Cera Round Pro Regular", Arial, monospace;
+    font-weight: 300;
+    font-size: 100%;
+
+    --bg-color-1-5: hsl(220, 18%, 10.5%);
+    --bg-color-3: hsl(220, 18%, 16%);
+
+    --font-color-3: hsl(220, 18%, 26%);
+    --font-color-2: hsl(220, 18%, 50%);
+    --font-color: hsl(220, 37%, 68%);
+}
